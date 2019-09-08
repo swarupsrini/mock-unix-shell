@@ -1,32 +1,3 @@
-// **********************************************************
-// Assignment2:
-// Student1: Gnanaswarup Srinivasan
-// UTORID user_name: srini140
-// UT Student #: 1004736431
-// Author: Gnanaswarup Srinivasan
-//
-// Student2: Irene Shang Yun Yang
-// UTORID user_name: yangire1
-// UT Student #: 1004276455
-// Author: Irene Shang Yun Yang
-//
-// Student3:Hemant Bhanot
-// UTORID user_name: bhanothe
-// UT Student #: 1005410690
-// Author: Hemant Bhanot
-//
-// Student4: Ivin Able
-// UTORID user_name: ableivin
-// UT Student #: 1005229744
-// Author: Ivin Able
-//
-//
-// Honor Code: I pledge that this program represents my own
-// program code and that I have coded on my own. I received
-// help from no one in designing and debugging my program.
-// I have also read the plagiarism section in the course info
-// sheet of CSC B07 and understand the consequences.
-// *********************************************************
 package driver;
 
 import java.util.Hashtable;
